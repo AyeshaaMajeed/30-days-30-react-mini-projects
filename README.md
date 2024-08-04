@@ -13,7 +13,7 @@ TailwindCSS
 
 # Day 1-TASK TRACKER
 
-https://github.com/user-attachments/assets/e74a6580-89a4-430e-af8b-00cb995124c4
+https://github.com/user-attachments/assets/e46a0d3c-ecd5-4086-8420-d7cd36d68caf
 
 # Day 2-WEATHER CHECK
 
