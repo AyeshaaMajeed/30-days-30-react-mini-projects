@@ -27,5 +27,7 @@ https://github.com/user-attachments/assets/8724d546-629c-4f44-9b46-57fe4af141ef
 
 https://github.com/user-attachments/assets/23df5c60-c7c0-4094-b01a-1b354bf780f9
 
+# Day 5-SIMPLE BLOG
 
+https://github.com/user-attachments/assets/fa3781d6-5607-4b45-9b36-77ddba61fb69
 
