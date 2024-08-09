@@ -31,3 +31,9 @@ https://github.com/user-attachments/assets/23df5c60-c7c0-4094-b01a-1b354bf780f9
 
 https://github.com/user-attachments/assets/fa3781d6-5607-4b45-9b36-77ddba61fb69
 
+# Day 6-IMAGE GALLERY
+
+https://github.com/user-attachments/assets/28065531-6f4a-47f9-9085-2e200b30fafa
+
+
+
