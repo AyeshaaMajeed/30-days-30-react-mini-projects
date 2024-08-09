@@ -20,7 +20,7 @@ const Home = () => {
         />
         <div className="absolute inset-0 bg-black opacity-40"></div>
       </div>
-      <div>
+      <div classname="p-4">
         <h3 className="font-bold text-4xl mb-4 mt-1">Latest blogs</h3>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {posts.slice(0, showAll ? posts.length : 3).map((post) => (
